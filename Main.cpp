@@ -6,6 +6,15 @@
 #include <iostream>
 using namespace std;
 int main () {
-  cout << "Hello world! /n"  << endl;
+  int Number;
+  int sum;
+  cout << "Please input a number"  << endl;
+  cin >> Number;
+
+  for (i<Number, i++){
+    Number + i = sum;
+  }
+
+
   return 0;
 }
